@@ -1,0 +1,1 @@
+This is the application source code of rt-thread project, and it also developed for stm32-core device.
